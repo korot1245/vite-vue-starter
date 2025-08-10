@@ -20,7 +20,7 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 npm install
 ```
 
-### Compile and Hot-Reload for Development (localhost:3000)
+### Compile and Hot-Reload for Development (localhost:5173)
 
 ```sh
 npm run dev
@@ -30,12 +30,6 @@ npm run dev
 
 ```sh
 npm run build
-```
-
-### Setup Production (after npm run build)(localhost:3000)
-
-```sh
-npm run server
 ```
 
 ### Lint with [ESLint](https://eslint.org/)
